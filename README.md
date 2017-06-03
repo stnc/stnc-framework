@@ -3,10 +3,7 @@
 ## kurulum ve kullanım 
 temrinalde 
 ```php composer update   ```
- yazarak kullanıma hazır hale gelir 
-web site adresi default olarak http://cms.localhost/ ayarlanmıştır 
-\app\Config.cms.localhost.php  dosyasından gerekli ayarlamaları yapınız mysql ve web domain name
-http://cms.localhost/admin ile paneline ulaşabilirsiniz 
+Bunu kullanmak için önce https://github.com/stnc/stnc-framework-skeleton bunu indiriniz , direk olarak framemork kullanmak için composer da ```php composer create-project stnc/framework ``` yazınız.
 
 
 ## Dökümantasyon 
