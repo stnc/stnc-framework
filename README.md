@@ -3,7 +3,7 @@
 ## kurulum ve kullanım 
 temrinalde 
 ```php composer update   ```
-Bunu kullanmak için önce https://github.com/stnc/stnc-framework-skeleton bunu indiriniz , direk olarak framemork kullanmak için composer da ```php composer create-project stnc/framework ``` yazınız.
+Bunu kullanmak için önce https://github.com/stnc/stnc-framework-skeleton bunu indiriniz , direk olarak framemork kullanmak için composer da ```composer create-project stnc/framework ``` yazınız.
 
 
 ## Dökümantasyon 
